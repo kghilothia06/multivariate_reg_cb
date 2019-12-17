@@ -9,5 +9,6 @@ Train:- The train data consists of five feature columns and one target column.Al
 
 Test:- test data consist all the columns contained by train with the the exception of target column which u have to predict using the model trained on train data.
 
-Sample_Submission:- this file shows how your submission file must look like it consist of two columns one is id that is nothing but index and other is target which is the value predicted by your model.
+Sample_Submission:- this file shows how your submission file must look like it consist of two columns one is id that is nothing but index and other is target which is the value predicted by your model......
+
 We need to build a regression model Predicting Pollution Levels using Machine Learning
